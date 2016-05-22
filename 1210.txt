@@ -1,4 +1,4 @@
-if(){
+if(true){
    klkllkjkljkjlkjl
     popoopop
    kjlkljlkjlkj
